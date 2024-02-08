@@ -1,1 +1,2 @@
 # restaurant-website
+npm install
